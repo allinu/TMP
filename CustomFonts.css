@@ -1,0 +1,45 @@
+@charset "UTF-8";
+@font-face {
+    font-family: "SCR";
+    src: url("https://cdn.jsdelivr.net/gh/allinu/OAO@main/src/assets/font/fonts/Smartisan_Compact-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SCT";
+    src: url("https://cdn.jsdelivr.net/gh/allinu/OAO@main/src/assets/font/fonts/Smartisan_Compact-Thin.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SCL";
+    src: url("https://cdn.jsdelivr.net/gh/allinu/OAO@main/src/assets/font/fonts/Smartisan_Compact-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SCM";
+    src: url("https://cdn.jsdelivr.net/gh/allinu/OAO@main/src/assets/font/fonts//Smartisan_Compact-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SCB";
+    src: url("https://cdn.jsdelivr.net/gh/allinu/OAO@main/src/assets/font/fonts/Smartisan_Compact-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SCH";
+    src: url("https://cdn.jsdelivr.net/gh/allinu/OAO@main/src/assets/font/fonts/Smartisan_Compact-Heavy.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "NFR";
+    src: url("https://cdn.jsdelivr.net/gh/allinu/OAO@main/src/assets/font/fonts/Fira%20Code%20Regular%20Nerd%20Font%20Complete.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "NFM";
+    src: url("https://cdn.jsdelivr.net/gh/allinu/OAO@main/src/assets/font/fonts/Fira%20Code%20Medium%20Nerd%20Font%20Complete.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "NFB";
+    src: url("https://cdn.jsdelivr.net/gh/allinu/OAO@main/src/assets/font/fonts/Fira%20Code%20Bold%20Nerd%20Font%20Complete.ttf") format("truetype");
+}
