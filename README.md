@@ -1,0 +1,2 @@
+# TMP
+static file collections
