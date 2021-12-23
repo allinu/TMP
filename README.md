@@ -12,7 +12,7 @@
 
 ## 目录作用
 
-/fonts	字体文件夹
+/fonts		字体文件夹
 /css		CSS文件夹
 /js			JS文件夹
 

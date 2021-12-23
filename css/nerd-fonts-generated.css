@@ -11,6 +11,7 @@
     src: url("https://cdn.jsdelivr.net/gh/allinu/TMP@main/fonts/Fira%20Code%20Regular%20Nerd%20Font%20Complete.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 .nf,
