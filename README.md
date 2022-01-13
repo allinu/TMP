@@ -85,14 +85,14 @@
 
 ## 使用方法
 
-	`https://cdn.jsdelivr.net/gh/allinu/TMP@main/` + 文件在本项目中的路径
+	https://cdn.jsdelivr.net/gh/allinu/TMP@main/ + 文件在本项目中的路径
 
 - fonts
-	-	`https://cdn.jsdelivr.net/gh/allinu/TMP@main/fonts/《字体文件名称》`
+	-	`https://cdn.jsdelivr.net/gh/allinu/TMP@main/fonts/《文件名称》`
 - images
-	- `https://cdn.jsdelivr.net/gh/allinu/TMP@main/images/《图片文件名称》`
+	- `https://cdn.jsdelivr.net/gh/allinu/TMP@main/images/《文件名称》`
 - css
-	-	`https://cdn.jsdelivr.net/gh/allinu/TMP@main/css/<CSS 文件名称》`
+	-	`https://cdn.jsdelivr.net/gh/allinu/TMP@main/css/《文件名称》`
 - js
-	- `https://cdn.jsdelivr.net/gh/allinu/TMP@main/js/<JS 文件名称》`
+	- `https://cdn.jsdelivr.net/gh/allinu/TMP@main/js/《文件名称》`
 
