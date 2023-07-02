@@ -1,6 +1,7 @@
 @charset "UTF-8";
+
 @font-face {
     font-family: "MuYao";
-    src: url("https://cdn.jsdelivr.net/gh/allinu/TMP@main/fonts/Muyao-Softbrush.ttf") format("truetype");
-	font-display: swap;
+    src: url("https://cdn.jsdelivr.net/gh/allinu/TMP@main/fonts/Muyao-Softbrush.woff2") format("truetype");
+    font-display: swap;
 }
